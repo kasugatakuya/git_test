@@ -10,6 +10,9 @@
   git test!
   <form action="post.php" method="POST">
     <input type="text" name="text">
+    <input type="radio" name="color" value="赤" checked>赤
+    <input type="radio" name="color" value="青">青
+    <input type="radio" name="color" value="黄色">黄色
     <input type="submit" value="送信">
   </form>
 </body>

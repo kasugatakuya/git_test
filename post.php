@@ -8,6 +8,6 @@
 </head>
 <body>
   <h1><?php echo $_POST['text']?></h1>
-
+  <h2><?php echo $_POST['color']?></h2>
 </body>
 </html>
